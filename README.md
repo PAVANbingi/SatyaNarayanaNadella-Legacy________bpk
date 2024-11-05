@@ -1,6 +1,4 @@
-Here's a refined version of your README for the **SatyaNarayanaNadella-Legacy** tribute website:
 
----
 
 # SatyaNarayanaNadella-Legacy
 
@@ -36,7 +34,3 @@ To view the website locally:
 
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues for suggestions, and submit pull requests to improve the website. 
-
----
-
-This README provides a clear overview of your project’s purpose, features, and how others can contribute. Let me know if you'd like to include anything else!
